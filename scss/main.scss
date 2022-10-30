@@ -1,11 +1,18 @@
+
+@import './utils/hidden';
+@import './utils/vars';
+
+@import './base/common';
+@import './base/reset';
+
 @import './components/adress';
-@import './components/base';
 @import './components/btn';
 @import './components/button';
 @import './components/check';
 @import './components/logo';
 @import './components/modal';
 @import './components/modal-form';
+@import './components/section';
 @import './components/social-list';
 @import './components/title';
 
@@ -17,7 +24,3 @@
 @import './layouts/footer';
 @import './layouts/portfolio';
 @import './layouts/work';
-
-@import './utils/hidden';
-@import './utils/reset';
-@import './utils/vars';
